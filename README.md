@@ -11,17 +11,16 @@ The optimization is performed using the `scipy.optimize.minimize` function with 
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/Priyanshumg/Portfolio-Optimization-with-Sharpe-Ratio-Maximization.git)
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <repository_name>
+   cd Portfolio-Optimization-with-Sharpe-Ratio-Maximization.git
    ```
 3. Install the required libraries:
    ```bash
    pip install -r requirements.txt
    ```
-   *(Note: A `requirements.txt` file should be created listing the required libraries.)*
 4. Obtain a FRED API key from [FRED website](https://fred.stlouisfed.org/docs/api/api_key.html).
 5. Open the Jupyter Notebook `Customer_Segmentation_and_Analysis.ipynb` in a Jupyter environment (e.g., Jupyter Notebook, JupyterLab, VS Code with Python extension).
 6. Replace the placeholder API key in the notebook with your actual FRED API key.
